@@ -1,0 +1,7 @@
+TO CREATE A DOCKER IMAGE:
+
+docker build -t danielpaulinomesquita/helpdesk-api-gateway:latest .
+
+TO PUSH IMAGE TO DOCKER HUB
+
+docker push danielpaulinomesquita/api-gateway:latest
